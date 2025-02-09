@@ -1,0 +1,12 @@
+25-01-2025	08:50:05	24223aad-2f54-47d6-ae50-fa67fc8a0a35	Error	Intentional server error	
+25-01-2025	08:51:08	b46a13df-2e99-4b3a-bd1d-5deb19d2eb9b	Error	Intentional server error	
+08-02-2025	08:31:46	f120e46a-c8c5-4c2b-b0be-0878c14c5769	Error	Not allowed by CORS	
+08-02-2025	08:31:46	49be3fea-4662-4396-a03b-1406cd0d1b26	Error	Not allowed by CORS	
+08-02-2025	08:31:59	c9c9a21d-564d-421a-82a3-0d4c48225125	Error	Not allowed by CORS	
+08-02-2025	08:32:01	ca418ad4-81f8-4f82-b75a-afca461a8a9e	Error	Not allowed by CORS	
+08-02-2025	08:52:44	b55bc512-600d-4a52-aa73-edbee3c7f57b	Error	Not allowed by CORS	
+08-02-2025	08:52:44	2388d3b5-5d0f-40b1-825a-1bc87e4676b5	Error	Not allowed by CORS	
+08-02-2025	08:53:05	b0ef5135-5802-408f-839a-20ffe4e4ec18	Error	Not allowed by CORS	
+08-02-2025	08:53:06	4415744a-2848-40c5-b7fd-8d81466c8121	Error	Not allowed by CORS	
+09-02-2025	18:40:26	099f7d5d-f9b5-42af-ab64-66677774fb3d	SyntaxError	Expected ',' or '}' after property value in JSON at position 284 (line 10 column 1)	
+09-02-2025	20:14:29	f3587986-36c8-4f8a-8d33-b98942205561	TypeError	fn is not a function	
