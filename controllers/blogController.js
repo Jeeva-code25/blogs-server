@@ -35,7 +35,7 @@ const handleCreateBlogs = asyncHandler( async (req, res) => {
 
         console.log(`${result}\n${userResult}`);
         
-        res.status(201).json(`Post Id: ${result._id} Title: ${result.title} `)
+        res.status(201).json(result)
 
     } catch (err) {
         res.status(500).json({"error": err.message})
@@ -91,7 +91,7 @@ const handleDeleteBlogs = asyncHandler(async (req, res) => {
     try {
         const result = await foundBlog.deleteOne()
         console.log(result);
-        res.status(201).json(result)
+        res.status(201).json(id)
         
     } catch (error) {
         console.error(error);

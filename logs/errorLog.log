@@ -10,3 +10,19 @@
 08-02-2025	08:53:06	4415744a-2848-40c5-b7fd-8d81466c8121	Error	Not allowed by CORS	
 09-02-2025	18:40:26	099f7d5d-f9b5-42af-ab64-66677774fb3d	SyntaxError	Expected ',' or '}' after property value in JSON at position 284 (line 10 column 1)	
 09-02-2025	20:14:29	f3587986-36c8-4f8a-8d33-b98942205561	TypeError	fn is not a function	
+13-02-2025	12:57:17	c59b48ae-eb68-4800-8fb9-0ca1841f6b76	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	12:57:18	cc13ddaa-3caf-492f-a132-a5c681d30860	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	12:59:19	72615259-6db6-4fc5-a2cf-d72d5ecabe0f	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	12:59:21	328ff645-3107-424b-a7fa-b3a2b0ce36d6	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:00:46	661a5828-8c7e-475a-99ab-da8371557f3d	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:00:56	057e5486-bc8a-41d0-bd1d-94a40821483e	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:00:56	0e6b0a3d-a623-4567-9aa6-89b4e583275a	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:02:24	cabb0c06-bec1-4671-ba88-7320570b369c	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:02:25	b567c8b8-8207-467a-b3db-9736c97839df	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:03:15	98830e32-ae43-4fac-86c0-173a238ada98	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:03:16	204cea6f-f284-4ee8-b580-d5171471d5b8	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:04:45	e506a14b-29e7-4cce-bcc6-123c9c602167	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:04:48	f6e350fb-9622-44d8-b0f4-62569e7ce8f5	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:05:28	abf4ec45-5488-4da6-8f09-e2f617db782f	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:05:29	47711380-8335-41ca-bb89-d41d1ccf8108	TypeError	The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received an instance of Object	
+13-02-2025	13:08:22	d00a1318-c9c9-4c0c-95e7-a75b5248329d	CastError	Cast to string failed for value "{ username: 'Jeevananthan K', password: 'Jeeva2002$' }" (type Object) at path "username" for model "User"	
